@@ -1,63 +1,54 @@
 <p align="center">
   <img src="assets/banner.png" alt="Galactic Odyssey Banner" width="100%">
-</p>🌌 Galactic Odyssey
+  </p>
 
-Interactive Cosmic Evolution Simulator
+  # 🌌 Galactic Odyssey
 
-An interactive HTML-based educational simulator exploring the evolution of the Universe from the hot early Universe to the present Solar System, designed around Class 12 scientific concepts.
+  ### *Interactive Cosmic Evolution Simulator*
 
----
+  > An educational simulation exploring the evolution of the Universe from the hot early Universe to the formation of the Solar System, based on Class 12 scientific concepts.
 
-✨ Features
+  **🌌 Cosmology · 🌀 Cosmic Evolution · ☀️ Solar System**
 
-* Cosmic Evolution: Explore major stages of cosmic history.
-* Expansion & Cooling: Visualize the evolution of the early Universe.
-* Cosmic Web: Explore large-scale cosmic structures.
-* Galaxy Formation: Visualize the emergence and evolution of galaxies.
-* Interactive Exploration: Navigate and explore cosmic structures.
-* Solar System Formation: Explore the formation and evolution of the Solar System.
-* Responsive Design: Optimized for desktop, tablet, and mobile devices.
+  ---
 
----
+  ## ✦ Features
 
-🎓 Learning Objectives
+  **🌌 Cosmic Evolution**  
+  Explore major stages of cosmic history.
 
-* Understand expansion and cooling of the early Universe.
-* Explore cosmic structure and galaxy formation.
-* Understand the gravitational role of dark matter.
-* Visualize Solar System formation.
-* Develop an intuitive understanding of cosmic time and scale.
+  **🌀 Expansion & Cooling**  
+  Visualize the evolution of the early Universe.
 
----
+  **🕸️ Cosmic Web**  
+  Explore large-scale cosmic structures and galaxy formation.
 
-🚀 Build & Hosting
+  **☀️ Solar System Formation**  
+  Visualize the formation and evolution of our Solar System.
 
-* Repository: GitHub
-* Hosting: GitHub Pages
-* Frontend: HTML, CSS & JavaScript
-* Rendering: Three.js / WebGL
+  **📱 Responsive Design**  
+  Designed for desktop, tablet, and mobile browsers.
 
----
+  ---
 
-🛠️ Credits & Acknowledgments
+  ## 🎓 Learning Focus
 
-* Claude Anthropic: Code architecture.
-* OpenAI:  Prompt generation & refinement.
-* Moonshot AI:  Initial Code implementation.
-* Perplexity: Scientific validation.
+  - Expansion and cooling of the early Universe
+  - Cosmic structure and galaxy formation
+  - The gravitational role of dark matter
+  - Solar System formation
+  - Cosmic time and scale
 
----
+  ---
 
-👤 Author
+  ## ⚙️ Technology
 
-Draven Ashcroft
+  **HTML · CSS · JavaScript · Three.js · WebGL**
 
-* M.Sc. Ag. Entomology
-* ASRB NET
-* DIPS Chain of Institutions
+  **Source:** GitHub · **Hosting:** GitHub Pages
 
----
+  ---
 
-📜 License
+  ## 📜 License
 
-GPL-3.0
+  **GNU General Public License v3.0 (GPL-3.0)**
