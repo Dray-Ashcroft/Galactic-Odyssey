@@ -1,8 +1,0 @@
-pages:
-  script:
-    - mkdir public
-    - cp index.html public/
-    - cp -r assets css js public/
-  pages: true
-  rules:
-    - if: $CI_COMMIT_BRANCH == "main"
