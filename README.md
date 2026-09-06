@@ -8,7 +8,7 @@
 
 > **Galactic Odyssey** is an interactive visualization exploring the **evolution of the Universe**, from the hot early Universe through cosmic structure and galaxy formation to the formation of the Solar System.
 >
-> 🌌 **Cosmology** · 🌀 **Cosmic Evolution** · ☀️ **Solar System**
+🌌 **Cosmology** · 🌀 **Cosmic Evolution** · ☀️ **Solar System**
 
 **🔬 [Explore the Simulation](https://galactic-odyssey.dray-ashcroft.workers.dev/)**
 
